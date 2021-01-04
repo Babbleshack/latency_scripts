@@ -1,0 +1,12 @@
+# Files created by scripts
+add_latency.tar.gz
+nodes/all-nodes
+nodes/home-subcluster
+subclusters/all-nodes
+subclusters/home-and-local-subclusters
+subclusters/home-subcluster
+subclusters/local-subcluster
+subclusters/remote-subcluster
+all-nodes
+
+tags
